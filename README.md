@@ -60,7 +60,14 @@
 - 5.13《数据结构教程电子版 》 [百度云下载链接](https://pan.baidu.com/s/1vi1MjxIfH453LpLLaCCDMA  ) 密码: 9934
 - 5.14《图论中的常用经典算法》 [百度云下载链接](https://pan.baidu.com/s/1mq9UGiM6N3NQYuI_EA4yGA  ) 密码: j7a5
 
+## Linux 与操作系统
 
-##免责声明
+- 1.1《操作系统导论》 [百度云下载链接](https://pan.baidu.com/s/1WgLCB2lgkkakjWt7gm1nZg) 密码: 5mss
+
+
+
+持续更新
+
+## 免责声明
 
 书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：githublove123@163.com
